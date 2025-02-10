@@ -3,7 +3,7 @@ from tkinter import scrolledtext, ttk
 import google.generativeai as genai
 
 # Paste your API key here
-API_KEY = "AIzaSyB0vpr_dZpdJn1-4RovFBYWSMTOpuFY3rY"
+API_KEY = 
 
 # Configure PaLM API
 genai.configure(api_key=API_KEY)
